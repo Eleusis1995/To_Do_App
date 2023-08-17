@@ -1,6 +1,6 @@
 # New branch: 
 
-New class calculator
+
 
 ## Characteristics
 
